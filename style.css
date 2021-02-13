@@ -1,0 +1,14 @@
+/*
+Theme Name: trumpicon
+Description: Super cool theme for everyone.
+Author: Artem Kozyr
+Version: 0.1
+*/
+
+.site-info {
+	display: table; 
+	text-align: center; 
+	min-width:100%; 
+	max-width:100%;
+}
+
